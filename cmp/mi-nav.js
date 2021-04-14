@@ -21,7 +21,7 @@ class MiNav extends HTMLElement {
         Chat</a>
         </li>
         <li>
-        <a href="alumno.html">
+        <a href="alumnos.html">
         Alumnos
         </li>
       </ul>`;
